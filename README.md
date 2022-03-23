@@ -7,4 +7,6 @@ It can currently search and read for 'TIF, PNG and JPG' files.
 
 Youtube DEMO video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m9XpWw34FWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=m9XpWw34FWo"><img src="https://i.ytimg.com/vi/m9XpWw34FWo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvNlZ0oWpysFAI3CSy0uerp8lXlw" alt="Random Image Labeler"></a>
+</div>
