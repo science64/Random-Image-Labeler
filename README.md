@@ -1,5 +1,5 @@
 # Random-Image-Labeler
-It provides you to randomized your images to eliminate biases. While analysising images with ImageJ or similar softwares. It renames your images with random numbers and and saves the original name and new number in a excel file. 
+It randomized your images to eliminate biases. While analysising images with ImageJ or similar softwares. It renames your images with random numbers and and saves the original name and new number in a excel file. 
 
 You can use .exe file directly or main.py file if you have python installed already. Download all the file and remove example images before begin.
 
