@@ -8,5 +8,5 @@ It can currently search and read for 'TIF, PNG and JPG' files.
 Youtube video:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=m9XpWw34FWo"><img src="https://i.ytimg.com/vi/m9XpWw34FWo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvNlZ0oWpysFAI3CSy0uerp8lXlw" alt="Random Image Labeler"></a>
+  <a href="https://www.youtube.com/watch?v=m9XpWw34FWo"><img src="https://i.ytimg.com/vi/m9XpWw34FWo/0.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvNlZ0oWpysFAI3CSy0uerp8lXlw" alt="Random Image Labeler"></a>
 </div>
