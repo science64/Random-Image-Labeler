@@ -5,4 +5,4 @@ You can use .exe file directly or main.py file if you have python installed alre
 
 It can currently search and read for 'TIF, PNG and JPG' files.
 
-Youtube DEMO video: https://www.youtube.com/watch?v=m9XpWw34FWo
+Youtube DEMO video: [![Random Image Labeler](https://i.ytimg.com/vi/m9XpWw34FWo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvNlZ0oWpysFAI3CSy0uerp8lXlw)](https://www.youtube.com/watch?v=m9XpWw34FWo)
