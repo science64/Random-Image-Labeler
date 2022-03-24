@@ -5,7 +5,7 @@ You can use .exe file directly or main.py file if you have python installed alre
 
 It can currently search and read for 'TIF, PNG and JPG' files.
 
-Only require 'Pandas module' dependency. Installation details: https://pandas.pydata.org/docs/getting_started/install.html but basically open command line (CMD) or terminal and type pip install pandas or python -m pip install pandas which will install pandas module.
+If you are not using executable (.exe), you must install 'Pandas module'. Installation details: https://pandas.pydata.org/docs/getting_started/install.html but basically open command line (CMD) or terminal and type "pip install pandas" or "python -m pip install pandas" which will install pandas module.
 
 Youtube video:
 
