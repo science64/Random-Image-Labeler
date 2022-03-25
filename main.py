@@ -1,8 +1,9 @@
 __author__ = "Süleyman Bozkurt"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __maintainer__ = "Süleyman Bozkurt"
 __email__ = "sbozkurt.mbg@gmail.com"
 __date__ = '23.03.2022'
+__update__ = '25.03.2022'
 
 import glob
 import random
