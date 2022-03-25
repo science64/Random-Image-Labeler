@@ -19,7 +19,7 @@ def main():
     out_df = pd.DataFrame(columns=columns)
 
     try:
-        images = glob.glob('./Images/*.jpg') + glob.glob('./Images/*.png') + glob.glob('./Images/*.tif')
+        images = glob.glob('./Images/*.jpg') + glob.glob('./Images/*.png') + glob.glob('./Images/*.tif') + glob.glob('./Images/*.tiff') + glob.glob('./Images/*.jpeg')
 
         randomNumberList = random.sample(range(1,len(images)+1), len(images))
 
