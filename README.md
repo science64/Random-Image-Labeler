@@ -15,6 +15,7 @@ Youtube video:
   <a href="https://www.youtube.com/watch?v=m9XpWw34FWo"><img src="https://i.ytimg.com/vi/m9XpWw34FWo/0.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvNlZ0oWpysFAI3CSy0uerp8lXlw" alt="Random Image Labeler"></a>
 </div>
 
-It is under MIT copyright. You can use it and share with others.
+
+It is under GPL-3.0 copyright. You can use it and share with others.
 
 If you find it useful and wants me to improve, please reach out! You can also support me via https://www.buymeacoffee.com/science64
